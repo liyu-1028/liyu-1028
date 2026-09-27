@@ -1,11 +1,11 @@
 # Hi 👋, I'm Liyu
 
-🎓 硕士在读，主要研究方向为 OCR、实体抽取、时间序列分析
+🎓 硕士在读，主要研究方向为 OCR、实体抽取
 
 
-🔍 关注方向：模型训练、模型算法、RAG、Agent 开发、搜广推
+🔍 关注方向：AI 应用开发、全栈开发
 
-💬 Ask me about：Agent 开发、模型算法、搜广推、RAG 系统
+💬 Ask me about：Agent 开发、RAG 评测和调优、全栈开发、LLM
 
 📫 Email: liyanlong8468@gmail.com
 
