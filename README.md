@@ -1,11 +1,13 @@
 # Hi 👋, I'm Liyu
 
-🎓 硕士在读，没有专一的研究方向，每个方向都或多或少了解过，其中印象深刻的也是收益匪浅的是2026年6月的某一周为了面试突击学习的推广搜！
+🎓 硕士在读，没有专一的关注方向，更多是「广泛涉猎、均衡发展」：
 
+- 🛠️ **编程语言**：Java（主力）、Python、TypeScript 均有项目经历
+- 🤖 **LLM**：看过 [Happy-LLM](https://github.com/datawhalechina/happy-llm) 了解训练原理，PyTorch 计划学习中
+- 📈 **搜广推**：看过「搜广推宇宙漫游指南」，对推荐/广告/搜索有基础认知，26年6月为了面试而突击学习的，对算法有了深刻的印象
+- 🧮 **算法**：坚持刷 LeetCode
 
-🔍 关注方向：AI 应用开发、全栈开发、LLM
-
-💬 Ask me about：Agent 开发、RAG 评测和调优、全栈开发
+💬 Ask me about：Java 后端、LLM 应用、算法
 
 📫 Email: liyanlong8468@gmail.com
 
