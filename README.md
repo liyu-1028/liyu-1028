@@ -1,11 +1,11 @@
 # Hi 👋, I'm Liyu
 
-🎓 硕士在读，主要研究方向为 OCR、实体抽取
+🎓 硕士在读，没有专一的研究方向，每个方向都或多或少了解过，其中印象深刻的也是收益匪浅的是2026年6月的某一周为了面试突击学习的推广搜！
 
 
-🔍 关注方向：AI 应用开发、全栈开发
+🔍 关注方向：AI 应用开发、全栈开发、LLM
 
-💬 Ask me about：Agent 开发、RAG 评测和调优、全栈开发、LLM
+💬 Ask me about：Agent 开发、RAG 评测和调优、全栈开发
 
 📫 Email: liyanlong8468@gmail.com
 
