@@ -7,7 +7,7 @@
 - 📈 **搜广推**：看过「搜广推宇宙漫游指南」，对推荐/广告/搜索有基础认知，26年6月为了面试而突击学习的，对算法有了深刻的印象
 - 🧮 **算法**：坚持刷 LeetCode
 
-💬 Ask me about：Java 后端、LLM 应用、算法
+💬 Ask me about：LLM 应用、算法
 
 📫 Email: liyanlong8468@gmail.com
 
