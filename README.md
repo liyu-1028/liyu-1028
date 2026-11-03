@@ -1,11 +1,11 @@
 # Hi 👋, I'm Liyu
 
-🎓 硕士在读，没有专一的关注方向，更多是「广泛涉猎、均衡发展」：
+🎓 硕士在读，专注于AI和机器人方向，追求「广泛涉猎、均衡发展」：
 
-- 🛠️ **编程语言**：Java（主力）、Python、TypeScript 均有项目经历
-- 🤖 **LLM**：看过 [Happy-LLM](https://github.com/datawhalechina/happy-llm) 了解训练原理，PyTorch 计划学习中
-- 📈 **搜广推**：看过「搜广推宇宙漫游指南」，对推荐/广告/搜索有基础认知，26年6月为了面试而突击学习的，对算法有了深刻的印象
-- 🧮 **算法**：坚持刷 LeetCode
+- 🛠️ **编程语言**：Java（主力）、Python
+- 🤖 **LLM**：[Happy-LLM](https://github.com/datawhalechina/happy-llm) ，PyTorch 计划学习中
+- 📈 **搜广推**：看过「搜广推宇宙漫游指南」，对推荐/广告/搜索有体系认知
+- 🧮 **算法**：LeetCode
 
 💬 Ask me about：LLM 应用、算法
 
